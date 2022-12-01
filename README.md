@@ -1,1 +1,1 @@
-# mt-first-repo
+# my-first-repo
